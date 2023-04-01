@@ -3,13 +3,13 @@
       "id": "1",
       "name": "task1",
       "short_description": "desc for task1",
-      "file": "some_file_url"
+      "markdown": "https://github.com/tarekwelaya/test-repo/blob/main/mark1.md"
     
     },
     {
       "id": "2",
       "name": "task2",
       "short_description": "desc for task2",
-      "file": "some_file_url2"
+      "markdown": "https://github.com/tarekwelaya/test-repo/blob/main/mark2.md"
     }
 ]
