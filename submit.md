@@ -1,14 +1,11 @@
-## Submit New Task
+## Welcome to TDD Mukayese
 
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+For submitting a new task follow these steps:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu tempor augue. Nunc ut quam nec urna sagittis lacinia. Nunc consequat molestie felis, sit amet vestibulum libero. Maecenas finibus ex eget molestie lobortis. Donec porta eu erat non posuere. Maecenas interdum, tellus quis faucibus euismod, nunc odio suscipit ipsum, quis facilisis nisi nibh vitae est. Sed viverra vestibulum orci, eu finibus lorem lacinia ac. Quisque laoreet iaculis molestie. Fusce ullamcorper blandit nulla. Ut ut laoreet metus. Proin laoreet pharetra tellus sed convallis. Etiam tristique fringilla rutrum. Suspendisse at facilisis augue, nec vulputate nunc. Proin arcu augue, maximus eu maximus quis, efficitur volutpat arcu. Phasellus in lorem a nibh cursus porta. Nullam facilisis, quam ut iaculis malesuada, risus sapien feugiat dui, eget rhoncus orci erat eu felis.
+- Go to this [Github repository] and create a new markdown file (<file-name>.md), this file should contain the new tasks details that are going to be displayed at the website  
+- after that navigate to [this JSON file] and add a new object to the array, the object for the new task should contain title, short description, url to the file created in the previous step and an id which is a v4 UUID, you can generate V4 UUID using this [generator]
 
-Quisque tempor convallis tortor in vehicula. Aenean interdum eleifend est non accumsan. Curabitur ut leo id risus tempus viverra. Proin libero mauris, ultrices quis mollis sed, placerat vitae nisi. Praesent iaculis lacinia pulvinar. Praesent vestibulum orci lacus, hendrerit bibendum tortor rhoncus non. Suspendisse feugiat, lorem vel luctus maximus, leo erat gravida sem, id euismod mauris ligula a odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse elementum vehicula velit at cursus. Nam a finibus augue, eu scelerisque augue. Mauris vel diam tempus, iaculis libero sed, ornare lectus. Mauris condimentum placerat tortor, vitae venenatis est sollicitudin a. Maecenas suscipit est eu condimentum convallis.
 
-Sed vel sollicitudin tellus. Integer et euismod massa, sit amet tincidunt tortor. Etiam vitae ex in elit vulputate vestibulum eget quis velit. Integer luctus laoreet nisl ut accumsan. Nulla rhoncus leo id lorem consequat, ac mollis ante volutpat. Duis vehicula laoreet nibh, a lobortis erat feugiat eget. Vivamus sed erat ultricies, tempus sem sed, condimentum nibh. Maecenas posuere odio et nulla consectetur, eget porttitor augue volutpat. Vestibulum magna erat, vestibulum eget blandit ut, rhoncus aliquet lorem. Nullam a dignissim tortor. Donec vel lorem in erat blandit pharetra.
-
-Etiam sit amet ligula metus. Proin tristique est quam, ut facilisis ipsum tempor id. Nulla euismod ex eu faucibus consequat. Suspendisse potenti. In tempor, urna vel pretium tincidunt, elit metus ullamcorper dolor, nec fermentum est tellus quis libero. Proin vel metus quis massa facilisis tincidunt. Curabitur pulvinar nisi ac massa euismod fringilla. Mauris hendrerit laoreet tellus, ut placerat libero vestibulum a. Vivamus vel pharetra mauris. Nullam quis est dapibus, tristique quam eget, tristique nisi. Phasellus viverra quis turpis aliquam varius. Morbi volutpat pharetra nisi a mollis. Etiam in mi nec turpis auctor condimentum. Curabitur quis nibh orci.
-
-Nulla facilisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi a tristique elit, tincidunt fermentum lectus. Curabitur pellentesque odio quis erat tempus ultrices. Etiam sagittis vitae mi vitae blandit. Aenean ac odio pulvinar, consequat sapien eget, lacinia odio. Duis a nisi ex. Nulla eu lectus vel quam finibus mollis quis ac ante. Sed suscipit arcu ac ex tristique, quis tempus diam lacinia. Vestibulum venenatis mauris ut leo venenatis, vitae sagittis eros pretium.
+   [Github repository]: https://github.com/tarekwelaya/test-repo
+   [this JSON file]: https://github.com/tarekwelaya/test-repo/blob/main/tasks.json
+   [generator]: https://www.uuidgenerator.net
